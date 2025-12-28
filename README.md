@@ -1,15 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on
+# # 🔭 I’m currently working on
 Building secure REST APIs with ASP.NET Core and JWT authentication, integrating Azure Functions, and optimizing SQL Server performance.
-🧑‍🤝‍🧑 I’m looking to collaborate on
+# # 🧑‍🤝‍🧑 I’m looking to collaborate on
 Web application development using ASP.NET Core, REST APIs, and SQL Server — not just .NET MAUI apps, but also robust, scalable websites with modern UI/UX.
-🤝 I’m looking for help with
+# # 🤝 I’m looking for help with
 ASP.NET Core and API development — specifically best practices for scalable, secure RESTful services, advanced authentication flows, and performance optimization.
-🌱 I’m currently learning
+# # 🌱 I’m currently learning
 Angular for building dynamic, component-based frontend applications with clean architecture and responsive UI.
-💬 Ask me about
+# # 💬 Ask me about
 ASP.NET Core, SQL Server stored procedures, JWT authentication, REST API design, and clean architecture in web development.
-⚡ Fun fact
+# # ⚡ Fun fact
 I’m currently mastering ASP.NET Core, diving deeper into advanced API development and clean architecture practices.
 
 ## 🌐 Socials:
