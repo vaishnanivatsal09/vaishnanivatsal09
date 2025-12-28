@@ -1,16 +1,10 @@
 # 💫 About Me:
-## 🔭 I’m currently working on
-Building secure REST APIs with ASP.NET Core and JWT authentication, integrating Azure Functions, and optimizing SQL Server performance.
-## 🧑‍🤝‍🧑 I’m looking to collaborate on
-Web application development using ASP.NET Core, REST APIs, and SQL Server — not just .NET MAUI apps, but also robust, scalable websites with modern UI/UX.
-## 🤝 I’m looking for help with
-ASP.NET Core and API development — specifically best practices for scalable, secure RESTful services, advanced authentication flows, and performance optimization.
-## 🌱 I’m currently learning
-Angular for building dynamic, component-based frontend applications with clean architecture and responsive UI.
-## 💬 Ask me about
-ASP.NET Core, SQL Server stored procedures, JWT authentication, REST API design, and clean architecture in web development.
-## ⚡ Fun fact
-I’m currently mastering ASP.NET Core, diving deeper into advanced API development and clean architecture practices.
+🔭 I’m currently working on secure ASP.NET Core APIs<br>
+🌱 learning Angular<br>
+🧑‍🤝‍🧑 collaborating on web apps<br>
+🤝 seeking help with API development<br>
+💬 ask me about SQL/JWT/clean architecture<br>
+⚡ fun fact: mastering ASP.NET Core
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vatsal-vaishnani-b5752a22a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishnanivatsal@gmail.com) 
